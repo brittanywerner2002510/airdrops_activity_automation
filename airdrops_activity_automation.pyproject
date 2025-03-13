@@ -1,0 +1,24 @@
+{
+    "files": [
+        "qml/main.qml",
+        "qml/projects/Aptos.qml",
+        "qml/projects/LayerZero.qml",
+        "qml/projects/Merkly.qml",
+        "qml/controls/ControlButton.qml",
+        "qml/controls/HideBtn.qml",
+        "qml/controls/ToggleBtn.qml",
+        "qml/controls/SelectFileBtn.qml",
+        "qml/controls/ProjectTabButton.qml",
+        "qml/controls/TopBarBtn.qml",
+        "qml/controls/RunBtn.qml",
+        "qml/controls/CustomTextField.qml",
+        "qml/controls/ChainSelector.qml",
+        "qml/controls/ProjectsBtn.qml",
+        "qml/controls/AccountToggle.qml",
+        "qml/controls/DateTime.qml",
+        "qml/controls/MessageBox.qml",
+        "main.py",
+        "qml/controls/SaveConfigDialog.qml",
+        "qml/controls/LoadConfigDialog.qml"
+    ]
+}

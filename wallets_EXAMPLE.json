@@ -1,0 +1,40 @@
+[
+    {
+        "wallets": {
+            "EVM": {
+                "private_key": "private_key",
+                "okx_deposit_address": "key_values",
+                "okx_subaccount": "key_values"
+            },
+            "APTOS": {
+                "private_key": "aptos_pk",
+                "okx_deposit_address": "key_values",
+                "okx_subaccount": "key_values"
+            }
+        },
+        "api_key": "key_values",
+        "api_sec": "key_values",
+        "api_passphrase": "key_values",
+        "pack": "wallet_1",
+        "proxy": "key_values"
+    },
+    {
+        "wallets": {
+            "EVM": {
+                "private_key": "private_key",
+                "okx_deposit_address": "key_values",
+                "okx_subaccount": "key_values"
+            },
+            "APTOS": {
+                "private_key": "aptos_pk",
+                "okx_deposit_address": "key_values",
+                "okx_subaccount": "key_values"
+            }
+        },
+        "api_key": "key_values",
+        "api_sec": "key_values",
+        "api_passphrase": "key_values",
+        "pack": "wallet_2",
+        "proxy": "key_values"
+    }
+]
